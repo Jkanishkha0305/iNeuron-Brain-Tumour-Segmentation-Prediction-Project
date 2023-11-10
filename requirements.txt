@@ -1,1 +1,25 @@
-
+nibabel==5.1.0
+matplotlib==3.5.1
+scikit-image==0.20.0
+scikit-learn==1.0.2
+opencv-python==4.7.0.68
+tensorflow==2.8.4
+keras==2.8.0
+kaggle==1.5.13
+pandas==1.4.2
+dvc
+mlflow==2.2.2
+notebook
+numpy
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+gdown
+-e .
