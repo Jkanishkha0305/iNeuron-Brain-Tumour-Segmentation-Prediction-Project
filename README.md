@@ -1,6 +1,6 @@
 # iNeuron Internship - Brain Tumor Segmentation & Prediction 🧠💡
 
-I'm thrilled to announce that I've embarked on an exciting journey with iNeuron as a Deep Learning intern, focusing on the Brain Tumor Segmentation and Prediction project. This opportunity is a significant step in my career, and I'm eager to contribute to innovative machine learning and deep learning solutions in the realm of medical imaging and healthcare.
+I'm thrilled to announce that I've embarked on an exciting journey with iNeuron as a Deep Learning Project intern, focusing on the Brain Tumor Segmentation and Prediction project. This opportunity is a significant step in my career, and I'm eager to contribute to innovative machine learning and deep learning solutions in the realm of medical imaging and healthcare.
 
 ## Project Overview 📋
 
